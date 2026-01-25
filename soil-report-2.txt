@@ -1,0 +1,166 @@
+=================================================
+GOVERNMENT SOIL HEALTH CARD
+Nashik Region, Maharashtra
+Department of Agriculture
+=================================================
+
+CARD ID: MH-NSK-2024-0892
+ISSUE DATE: 20 January 2024
+VALID UPTO: 31 March 2025
+
+FARMER INFORMATION:
+------------------
+Name: Suresh Jadhav
+Address: Village: Niphad, Taluka: Niphad
+District: Nashik, Maharashtra - 422306
+Mobile: 9876543210
+Kisan Credit Card: Yes
+
+LAND DETAILS:
+-------------
+Khasra No: 112/3, 112/4
+Total Area: 3.2 Hectares
+Irrigation Source: Drip irrigation
+Soil Type: Medium Black
+
+=================================================
+SOIL TEST RESULTS
+=================================================
+
+SAMPLE DETAILS:
+--------------
+Sample Code: NSK-2024-0892-A
+Collection Date: 15/01/2024
+Test Date: 18/01/2024
+Lab: Nashik Soil Testing Laboratory
+
+CHEMICAL PROPERTIES:
+-------------------
+pH (1:2.5): 5.6
+Electrical Conductivity (EC): 0.38 dS/m
+Organic Carbon (OC): 0.68%
+Organic Matter: 1.17%
+
+NUTRIENT STATUS (kg/ha):
+-------------------------
+Available Nitrogen (N): 195
+Available Phosphorus (P): 18
+Available Potassium (K): 275
+
+Calcium (Ca): 1420
+Magnesium (Mg): 380
+Sulphur (S): 11
+
+MICRONUTRIENTS (ppm):
+----------------------
+Iron (Fe): 3.6
+Manganese (Mn): 6.8
+Zinc (Zn): 0.8
+Copper (Cu): 0.6
+Boron (B): 0.4
+
+HEAVY METALS (ppm):
+-------------------
+Lead (Pb): 12.5
+Cadmium (Cd): 0.8
+Nickel (Ni): 18.2
+Chromium (Cr): 25.4
+
+=================================================
+SOIL HEALTH INDICATORS
+=================================================
+
+Soil Reaction: MODERATELY ACIDIC (pH 5.6)
+Salinity: NORMAL (EC 0.38 dS/m)
+Organic Status: LOW (OC 0.68%)
+Nutrient Index: 68 (Medium)
+
+FERTILIZER RECOMMENDATIONS:
+--------------------------
+
+FOR COTTON:
+---------
+Nitrogen (N): 80 kg/ha
+Phosphorus (P2O5): 50 kg/ha
+Potassium (K2O): 40 kg/ha
+Zinc Sulphate: 25 kg/ha
+Farm Yard Manure: 8 tonnes/ha
+
+FOR ONION:
+---------
+Nitrogen (N): 100 kg/ha
+Phosphorus (P2O5): 60 kg/ha
+Potassium (K2O): 50 kg/ha
+Farm Yard Manure: 10 tonnes/ha
+
+FOR GRAPES:
+---------
+Nitrogen (N): 500 kg/ha
+Phosphorus (P2O5): 200 kg/ha
+Potassium (K2O): 400 kg/ha
+Farm Yard Manure: 15 tonnes/ha
+
+=================================================
+CROP SUITABILITY RATING
+=================================================
+
+HIGHLY SUITABLE (★★★★★):
+- Cotton
+- Onion
+- Grapes
+- Sugarcane
+
+MODERATELY SUITABLE (★★★):
+- Tomato
+- Chilli
+- Maize
+- Soybean
+
+LESS SUITABLE (★★):
+- Wheat
+- Gram
+- Turmeric
+
+NOT SUITABLE (★):
+- Pomegranate
+- Mango
+
+=================================================
+IMPROVEMENT SUGGESTIONS
+=================================================
+
+IMMEDIATE ACTIONS:
+1. Apply lime @ 2 tonnes/ha to neutralize acidity
+2. Increase organic matter through green manuring
+3. Apply balanced fertilizers as per recommendations
+
+LONG-TERM MANAGEMENT:
+1. Practice crop rotation (Cotton → Onion → Soybean)
+2. Use drip irrigation for water efficiency
+3. Apply micronutrients as foliar spray if needed
+4. Maintain soil pH between 6.5-7.0
+
+SOIL CONSERVATION:
+- Use cover crops during off-season
+- Avoid excessive tillage
+- Maintain proper drainage
+- Use mulching to reduce erosion
+
+=================================================
+CERTIFIED BY:
+------------
+
+Agricultural Development Officer
+Nashik Division
+
+Signature: _________________
+Name: Dr. A. K. Sharma
+Date: 20/01/2024
+
+=================================================
+IMPORTANT NOTES:
+- Retain this card for fertilizer purchases
+- Follow recommended doses for better yields
+- Re-test soil after every 3 years
+- Contact helpline: 1800-180-1551 for queries
+=================================================

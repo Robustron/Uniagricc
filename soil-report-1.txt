@@ -1,0 +1,113 @@
+===============================================
+MAHARASHTRA SOIL TESTING LABORATORY
+Pune Division, Government of Maharashtra
+===============================================
+
+REPORT NO: ST/2024/0156
+DATE: 15 January 2024
+
+FARMER DETAILS:
+Name: Ramesh Patil
+Village: Shirur, District: Pune
+Survey No: 45/2
+Area: 2.5 Hectares
+
+SOIL SAMPLE INFORMATION:
+Sample ID: PUN-2024-0156
+Depth: 0-15 cm
+Crop: Previous crop - Sorghum (Jowar)
+GPS Coordinates: 18.5204°N, 73.8567°E
+
+===============================================
+CHEMICAL ANALYSIS RESULTS
+===============================================
+
+pH (1:2.5 Soil:Water ratio): 6.8
+Electrical Conductivity (EC): 0.42 dS/m
+Organic Carbon (OC): 0.82%
+
+MACRO NUTRIENTS (kg/hectare):
+---------------------------------
+Nitrogen (N): 265
+Phosphorus (P): 22
+Potassium (K): 310
+
+Calcium (Ca): 1750
+Magnesium (Mg): 420
+Sulphur (S): 14
+
+SECONDARY NUTRIENTS:
+--------------------
+Calcium Carbonate: 1.2%
+Exchangeable Sodium Percentage (ESP): 4.5%
+
+MICRONUTRIENTS (ppm):
+--------------------
+Iron (Fe): 4.5
+Manganese (Mn): 8.8
+Zinc (Zn): 1.4
+Copper (Cu): 0.9
+Boron (B): 0.7
+Molybdenum (Mo): 0.12
+
+===============================================
+PHYSICAL PROPERTIES
+===============================================
+
+Soil Texture: Clay Loam
+Sand %: 35
+Silt %: 35
+Clay %: 30
+
+Water Holding Capacity: 42%
+Field Capacity: 28%
+Wilting Point: 14%
+Available Water Moisture: 14%
+
+Bulk Density: 1.35 g/cm³
+Particle Density: 2.65 g/cm³
+Porosity: 49%
+
+Soil Structure: Angular Blocky
+Drainage: Well Drained
+Erosion Status: Slight Erosion
+
+===============================================
+INTERPRETATION & RECOMMENDATIONS
+===============================================
+
+Soil Reaction: NEUTRAL (pH 6.8) - Suitable for most crops
+Salinity: NON-SALINE (EC 0.42 dS/m) - No salt stress
+Organic Matter: MEDIUM (OC 0.82%) - Need organic manure
+
+Nutrient Status:
+- Nitrogen: MEDIUM - Apply 50 kg N/ha
+- Phosphorus: LOW - Apply 60 kg P2O5/ha  
+- Potassium: HIGH - No K needed
+- Zinc: SUFFICIENT - No Zn needed
+- Iron: ADEQUATE - No Fe needed
+
+General Recommendations:
+1. Apply FYM @ 10 tonnes/ha before sowing
+2. Use balanced NPK fertilizers as per crop
+3. Follow integrated nutrient management
+4. Maintain soil pH with liming if needed
+
+Suitable Crops for this Soil:
+- Cotton (High priority)
+- Soybean (Very suitable)
+- Wheat (Good for Rabi season)
+- Gram (Tur/Harbhara) (Excellent)
+- Maize (Good yield expected)
+- Tomato (Suitable with proper management)
+
+===============================================
+REPORT PREPARED BY:
+Agricultural Officer, Soil Testing Lab
+Signature: ______________________
+
+Date: 15/01/2024
+===============================================
+
+NOTE: This report is valid for one season only.
+Retest soil after each crop cycle for best results.
