@@ -282,9 +282,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Hackathon**: [Hackathon Name]
+- **Project Lead**: Pratik Jadhav & Aditi Gaikwad
+- **Email**: [uniagric12@gmail.com]
 - **Date**: January 2026
 
 ---
